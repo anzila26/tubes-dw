@@ -170,3 +170,38 @@
 .box {
     box-shadow: #5cd053 !important;
 }
+
+/*css layanan*/
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #F05F40;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 40px;
+}
+
+.manfaat h4 {
+    line-height: 3;
+}
+
+.tambahan {
+    height: 50vh;
+    background-color: rgba(240, 95, 64, 0.4);
+    background-size: cover;
+    background-position: top;
+}
+
+.tambahan-text {
+    height: 100%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
